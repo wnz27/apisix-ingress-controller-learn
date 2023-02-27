@@ -6,7 +6,7 @@ require (
 	github.com/apache/apisix-ingress-controller v0.0.0-20210105024109-72e53386de5a
 	github.com/apache/apisix-ingress-controller/test/e2e/testbackend v0.0.0
 	github.com/eclipse/paho.mqtt.golang v1.4.2
-	github.com/gavv/httpexpect/v2 v2.6.1
+	github.com/gavv/httpexpect/v2 v2.13.0
 	github.com/gorilla/websocket v1.5.0
 	github.com/gruntwork-io/terratest v0.40.22
 	github.com/onsi/ginkgo/v2 v2.5.1
@@ -40,6 +40,7 @@ require (
 	github.com/go-playground/universal-translator v0.18.0 // indirect
 	github.com/go-playground/validator/v10 v10.11.0 // indirect
 	github.com/go-sql-driver/mysql v1.4.1 // indirect
+	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/goccy/go-json v0.9.10 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
